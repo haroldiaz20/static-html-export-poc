@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 57.1 (101010) - https://sketch.com -->
+    <title>3C2C808F-F4A4-481F-9535-25BBF3525B96</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Ideation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="COM-17082-[02][01]---SMS" transform="translate(-952.000000, -621.000000)">
+            <g id="page">
+                <g id="organisms/actions-menu" transform="translate(870.000000, 128.000000)">
+                    <g id="Actions-menu">
+                        <g id="options" transform="translate(24.000000, 65.000000)">
+                            <g id="option-call" transform="translate(0.000000, 412.000000)">
+                                <g id="atoms/icons/smartplans/phone" transform="translate(58.000000, 16.000000)">
+                                    <g id="phone">
+                                        <rect id="Rectangle-3" fill="#E5F4F6" x="0" y="0" width="48" height="48" rx="24"></rect>
+                                        <rect id="Rectangle" x="12" y="12" width="24" height="24"></rect>
+                                        <path d="M29.7142857,26.8571429 L26.8571429,29.7142857 L18.2857143,21.1428571 L21.1428571,18.2857143 L16.8571429,14 L14,16.8571429 C14,26.3242857 21.6757143,34 31.1428571,34 L34,31.1428571 L29.7142857,26.8571429 Z" id="Shape" stroke="#0099A7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
